@@ -1,0 +1,4 @@
+Simply write down a list of each thing you’ve never seen before. There may be
+quite a few things that are new, so scan the file a few times.
+Once you have that you’ll want to run this Python script to play with it. Here are
+some example commands I used to test it:
